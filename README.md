@@ -1,5 +1,5 @@
 # Bazinga Checker
-Harmonic Syllabes nick generator and checker (for Minecraft) <br>
+Harmonic Syllables nick generator and checker (for Minecraft) <br>
 The checker isn't really a checker because it's based on Mojang's API, which isn't that good because it flags illegal nicks as available soooo...
 
 ## Features
@@ -19,9 +19,9 @@ When a word is harmonic, it's easily pronunciable, the main thing of this is vow
 Examples: <br>
 `Coir`, `Kyle`, `Sine`, `Keep` are harmonic, they use `Cvcv` and `Cvvc` (also `Cccv` but it's too specific)
 
-`Qhil`, `Wzec`, `Czkg`, `Ylxq` are NOT harmonic, some syllabes doesn't combines at all
+`Qhil`, `Wzec`, `Czkg`, `Ylxq` are NOT harmonic, some syllables doesn't combines at all
 
-One of the rules of harmonic syllabes is "continuable letters", e.g: `H`, h is a letter that if not on the start/end of the word can be extended, like:
+One of the rules of harmonic syllables is "continuable letters", e.g: `H`, h is a letter that if not on the start/end of the word can be extended, like:
 `Shop`: SHO -> ccv | h can be extended with any vowel <br>
 `Lying`: LY -> cc | l can be extended with some consonants and with any vowel, the reason of this is our tongue, our tongue accepts soft word combinations, which makes our brain think that the word is "common"
 
