@@ -22,7 +22,7 @@ Examples: <br>
 `Qhil`, `Wzec`, `Czkg`, `Ylxq` are NOT harmonic, some syllabes doesn't combines at all
 
 One of the rules of harmonic syllabes is "continuable letters", e.g: `H`, h is a letter that if not on the start/end of the word can be extended, like:
-`Shop`: SHO -> ccv | h can be extended with any vowel
+`Shop`: SHO -> ccv | h can be extended with any vowel <br>
 `Lying`: LY -> cc | l can be extended with some consonants and with any vowel, the reason of this is our tongue, our tongue accepts soft word combinations, which makes our brain think that the word is "common"
 
 and many more combinations, its too complex to explain the lore for it but I think you got it!
